@@ -50,7 +50,7 @@ body {
   color: #c4f82a;
 }
 
-p {
+.info p {
   color: #a3a3a3;
 }
 
@@ -81,7 +81,3 @@ p {
   transform: scale(1.1);
 }
 
-footer p {
-  font-size: min(1em, 1.3em);
-  color: #e7e7e7;
-}
